@@ -34,4 +34,4 @@ Data Cleaning Process
 Addressing missing values  
 Encoding categorical variables  
 Segregating into train/test sets  
-Constructing and assessing credit score prediction model
+Constructing and assessing credit score prediction model                                                                                                                                    reach out at kelvinsang89@gmail.com i will appreciate your thoughts on the project
